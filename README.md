@@ -122,7 +122,7 @@ The models predict US population growth rate (%) using:
 
 ## 👤 Author
 
-**Balagangadhar-Dev**  
+**Mauli_Chavhan**  
 GitHub: [@maulichawan](https://github.com/maulichawan)
 
 ---
